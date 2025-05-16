@@ -1,0 +1,18 @@
+{
+	"features": [{
+        "type": "Feature",
+        "properties": {
+            "id": null,
+            "bidir": 0,
+            "speedMax": 2.500000
+        },
+        "geometry": {
+            "coordinates": [
+                [0.0, 0.0],
+                [10.0, 0.0],
+                [10.0, 10.0],
+                [0.0, 0.0]
+            ]
+        }
+	}]
+}

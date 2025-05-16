@@ -1,0 +1,17 @@
+{
+	"features": [{
+        "type": "Feature",
+        "properties": {
+            "id": null,
+            "bidir": 1,
+            "speedMax": 2.500000
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [0.0, 0.0],
+                [10.0, 0.0]
+            ]
+        }
+    }]
+}
